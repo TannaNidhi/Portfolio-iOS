@@ -1,7 +1,7 @@
 # iOS Engineer Portfolio
 
 **Hello and Welcome! 👋**  
-Thank you for taking the time to visit my portfolio. I'm **Nidh Tanna**, a passionate and experienced iOS Engineer with over 8 years of expertise in building high-quality, efficient apps. My skill set spans across **Objective-C**, **Swift**, and **UIKit**. I pride myself on delivering impactful and productive solutions in every project I undertake.
+Thank you for taking the time to visit my portfolio. I'm **Nidh Tanna**, a passionate and experienced iOS Engineer with over 10 years of expertise in building high-quality, efficient apps. My skill set spans across **Objective-C**, **Swift**, and **UIKit**. I pride myself on delivering impactful and productive solutions in every project I undertake.
 
 ---
 
