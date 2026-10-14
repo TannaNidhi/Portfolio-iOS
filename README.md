@@ -60,8 +60,8 @@ Developed a specialized healthcare mobile application designed for personal diab
   
 ---
 ### Other Projects
-### [Accurascan - Digital KYC](#)
-Accurascan Identity Verification and Digital KYC for Remote Account Opening or User Authentication. The best of its kind, Accura Scan App, is an all-in-one ID Card Scanner, Passport Scanner, Visa Scanner and Driving License Scanner with Face Match / Recognition / Authentication with the use of a mobile camera as simple as a Selfie.
+### [Digital Identity Verification & eKYC Platform](#)
+An enterprise-grade digital Know Your Customer (KYC) and remote identity verification platform. The mobile solution enables automated document scanning (passports, national IDs, driver's licenses, and visas) paired with real-time facial recognition and selfie-based liveness verification for seamless user authentication and digital account opening.
 
 **Technology Stack:**
 - Used OpenCV SDK For Face Map
@@ -71,7 +71,7 @@ Accurascan Identity Verification and Digital KYC for Remote Account Opening or U
 - Involved from beginning of the requirement gathering phase.
 - Analysis of enhancement task and effective implementation of the requirement.
 
-### [Meet Louie](#)
+### [Members-Only Investment Sourcing & Chatbot Platform](#)
 Chatbot app for Members only UK investment management. Sourcing, analyzing and presenting UK investment opportunities in property and businesses in the UK. Tier 1 Visa compliant.
 
 **Technology Stack:**
@@ -92,8 +92,8 @@ Dunkin LEB is Available ONLY for DD Lebanon Customer Loyalty Program" Enjoy Payi
 **Responsibility:**
 - Develop a new design of app and features of scan and pay with your QR code. Get customized offers and promotions. Collect your points and redeem them instantly.
 
-### [Key of life](#)
-This is a comprehensive record-keeping app for your health and medical records.Store personal health and medical information in a convenient and concise mobile app. Take control of your own healthcare by keeping track of your medications, lab results, radiology, hospitalizations, surgeries, and more.
+### [Personal Health Record (PHR) & Medical History iOS Application](#)
+A secure, patient-centric Personal Health Record (PHR) application designed to centralize personal medical history and health tracking. The platform empowers users to securely store, organize, and track clinical data—including active prescriptions, lab reports, diagnostic radiology scans, surgical histories, hospital stays, and routine health metrics—in an accessible, structured mobile interface.
 
 **Technology Stack:**
 - Version Control: bitbucket.
@@ -104,8 +104,8 @@ This is a comprehensive record-keeping app for your health and medical records.S
 - Involved from beginning of the requirement gathering phase
 - Analysis of enhancement task and effective implementation of the requirement.
 
-### [Live image app](#)
-The Living Image App brings ‘still’ images to life. Simply open the app, point it at an image that is, ‘LivingImage Enabled,’ and you’ll see the image magically come to life.Listen as characters from the pages of a child’s book lend insight to the story at hand.Be amazed as the character on a bucket of chicken, or a cereal box, deliver a new message every day.Watch your favorite politician come to life on your coffee mug and tell you about current events. Don’t forget to check back on your favorite ‘Living Image’ often. The messages change often!.
+### [Augmented Reality (AR) Interactive Print & Packaging iOS Application](#)
+An immersive Augmented Reality (AR) application that brings static target images and physical surfaces to life with dynamic multimedia content. By scanning marker-enabled items—such as children's books, product packaging, and promotional merchandise—the app detects visual targets in real time using the device's camera and overlays interactive 3D video, audio, and updated daily messaging.
 
 **Technology Stack:**
 - Version Control: bitbucket.
@@ -116,19 +116,7 @@ The Living Image App brings ‘still’ images to life. Simply open the app, poi
 - involved from beginning of the requirement gathering phase.
 - Analysis of enhancement task and effective implementation of the requirement.
 
-### [Pickoin](#)
-A marketplace of unique photos designed for any user and not just dedicated to professionals.A platform where the popular hobby and obsession of taking pictures from smartphones can be monetised. A new revenue generator for celebrities and corporate.On top of the market place, the App allows users to find verified photographers nearby to take their pictures, offering an alternative to selfies.
-
-**Technology Stack:**
-- Version Control: bitbucket.
-- Used Google Map, Socket IO
-
-**Responsibility:**
-- Analysis of enhancement task and effective implementation of the requirement.
-- Developed Google Map API for Best spot and one to one chat using socket IO.
-- improvement of coding level to performance.
-
-### [islamHub](#)
+### [Islamic Q&A & Live Video Consultation Platform](#)
 This App is used for all your Islamic queries. Ask Questions from qualified scholars. Book live video consultations. Read more. Collapse Answer its created in english and arabic both language.
 
 **Technology Stack:**
