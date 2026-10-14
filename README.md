@@ -28,11 +28,11 @@ Throughout my career, I've had the opportunity to work on a diverse range of pro
 
 ## Featured Projects
 
-### [Bio Mobile](#)
-The BioMobile app transmits vital data from your BioIntelliSense device for health monitoring, accessible via a registration code from a healthcare provider. It’s authorized in the USA and select countries, but does not diagnose or treat conditions. Contact your healthcare provider or emergency services if needed.
+### [Continuous Patient Monitoring Application](#)
+Developed a secure mobile application designed to transmit vital physiological data from proprietary wearable medical devices for remote health monitoring, accessible via healthcare provider registration codes. Operating under regulatory compliance across multiple international markets.
 
 **Technology Stack:**
-- Used Biointellisense SDK for bio device.
+- Used SDK for device pairing.
 - Version Control: bitbucket.
 - Bluetooth, MVVM, Firebase, Launch Darkly, Core Data, Swift Package Manager, Kronos, Alamofire.
 
@@ -43,8 +43,8 @@ The BioMobile app transmits vital data from your BioIntelliSense device for heal
   
 ---
 
-### [LifeScan Development Squad](#)
-The OneTouch Reveal® app helps diabetics manage their condition by syncing with the OneTouch Verio Flex® meter, turning blood sugar data into insights connected to food, insulin, and activity. It provides a quick snapshot of your diabetes management.
+### [Diabetic Management & Device Connectivity App](#)
+Developed a specialized healthcare mobile application designed for personal diabetes management. The application pairs wirelessly with external blood glucose monitoring hardware to automatically transform measurement data into quick visual snapshots, directly correlating blood sugar levels with meal intake, insulin dosages, and daily physical activity.
 
 **Technology Stack:**
 - Used MobileConnectivityKitRestricted framework for meter pairing.
